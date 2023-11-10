@@ -66,4 +66,28 @@ register-entity.ts
 * brief summary of all time performance (number of added versus completed habits and completetion rate)
 * store habit data in a database.
 
+## ## Getting Started
+
+## Clone the repo
+git clone https://github.com/gosikape/HabitsTrackerBack.git
+
+### Install dependencies
+
+```
+cd habit-tracker-back
+npm install
+```
+
+### Configure the database connection:
+
+###  Start development server
+```
+npm start
+```
+ 
+The app should be running at: http://localhost:3000 
+
+## Contributors
+Created with ❤️ by Małgorzata Oleś
+
 
