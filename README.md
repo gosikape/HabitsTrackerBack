@@ -7,6 +7,7 @@ This is basic habit tracking app for users to track their daily habits. lt is bu
 
 ## Folder Structure
 
+```
 habit-tracking-backend-app
 ├── dist/
 ├── nodemodules/
@@ -53,6 +54,7 @@ register-entity.ts
 ├── package-lock.json
 ├──README.md
 ├──tsconfig.json
+```
 
 ## Features
 
