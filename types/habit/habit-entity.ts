@@ -7,4 +7,4 @@ export interface HabitEntity {
     totalRepeatCount: number;
     isActive: boolean | number;
     userId: string;
-};
+}

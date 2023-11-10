@@ -38,4 +38,4 @@ export class PasswordRecord implements PasswordEntity {
         return hash === hashVerify;
     };
 
-};
+}

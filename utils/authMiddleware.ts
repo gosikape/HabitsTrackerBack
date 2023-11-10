@@ -9,6 +9,4 @@ export const isAuth = async (req: Request, res: Response, next: NextFunction) =>
     }
 };
 
-export const isAdmin = async (req: Request, res: Response, next: NextFunction) => {
-
-};
+//export const isAdmin = async (req: Request, res: Response, next: NextFunction) => {};

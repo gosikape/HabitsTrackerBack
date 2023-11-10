@@ -8,7 +8,7 @@ interface MySQLStoreOptions {
     port: number;
     host: string;
     user: string;
-};
+}
 
 const options: MySQLStoreOptions = {
     host: 'localhost',

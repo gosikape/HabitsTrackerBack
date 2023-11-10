@@ -71,4 +71,4 @@ export class UserRecord implements UserEntity {
             username: this.username,
         });
     };
-};
+}

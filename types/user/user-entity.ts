@@ -4,4 +4,4 @@ export interface UserEntity {
     pwdHash: string | null;
     salt: string | null;
     isAdmin: boolean;
-};
+}
